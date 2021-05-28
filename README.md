@@ -12,6 +12,9 @@ Add values in environment variables or add them in [config.env.template](./confi
 ### Configuring Encoding Format
 To change the ffmpeg profile edit them in [ffmpeg_utils.py](/bot/helper/ffmpeg_utils.py)
 
+### Heroku Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Installing Requirements
 Install the required Python Modules in your machine.
 ```sh
